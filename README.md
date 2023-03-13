@@ -1,7 +1,8 @@
 ### Olá! Sou Henrique Santana
 
-- Hoje trabalho com tecnologia de front-end
-- Estudando Typescript
+- Hoje trabalho com tecnologias de front-end
+- Estudando Typescript & Node.js
 - Pronouns: ele/dele
 
-![@Devriquesant Status](https://github-readme-stats.vercel.app/api?username=devriquesantpe&show_icons=true)
+![@devriquesant Status](https://github-readme-stats.vercel.app/api?username=devriquesant&show_icons=true&theme=dracula)
+[![@devriquesant Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devriquesant&theme=dracula)](https://github.com/devriquesant/github-readme-stats)
