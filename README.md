@@ -8,5 +8,5 @@
 
 ### Status:
 ![@devriquesant Status](https://github-readme-stats.vercel.app/api?username=devriquesant&show_icons=true&theme=dracula)
-### Top línguas usadas:
+### Top linguagens usadas:
 [![@devriquesant Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devriquesant&theme=dracula)](https://github.com/devriquesant/github-readme-stats)
