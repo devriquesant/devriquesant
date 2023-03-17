@@ -24,6 +24,6 @@ Nowadays I:
 <h1 align="center">GitHub Status:</h1>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=devriquesant&show_icons=true&theme=radical&border_radius=15" width="48.5%">
+  <img src="https://github-readme-stats.vercel.app/api?username=devriquesant&show_icons=true&theme=radical&border_radius=15">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devriquesant&theme=radical&border_radius=15" align="right">
 </div>
