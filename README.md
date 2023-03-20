@@ -1,29 +1,46 @@
 # Hello you!
 
-I'm Carlos <i>(also Henrique)</i> and I do like to code and solve problems.
-It has began with (<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png" width="15"/>) Minecraft and it's going with Node.js :grin:
+Oi eu sou Carlos <i>(tembém Henrique)</i> e eu realmente gosto de programar e resolver problemas.
 
-Nowadays I:
+Hoje em dia eu:
 <div>
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="right" width="35%">
   <ul>
     <li>
-      Develop Programs with: <b>Frontend Techology</b>
+      Desenvolvo programas com tecnologias <b>Frontend</b>:
+      <ul>
+        <li>Html</li>
+        <li>Css</li>
+        <li>Javascript</li>
+          <ul>
+            <li>Electron</li>
+            <li>React</li>
+          </ul>
+      </ul>
+    </li>
+    <li>
+      Desenvolvo também para <b>Backend</b>:
+      <ul>
+        <li>Javascript</li>
+          <ul>
+            <li>Node.js</li>
+            <li>Express</li>
+            <li>Socket.io</li>
+          </ul>
+      </ul>
+    </li>
+    <li>
+      Conhecimento Intermediário na área de <b>Data Science</b>:
+      <ul>
+        <li>Python</li>
+      </ul>
     </li>
     <li style="display:flex;justify-content:center;align-items:center">
-      Study:
+      Foco de estudo:
       <ul type="none">
         <li> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="14"/> TypeScript </li>
-        <li> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="14"/> Node.js </li>
-        <li> <img src="https://cdn-icons-png.flaticon.com/512/9850/9850774.png" width="14"/> Backend </li>
+        <li> <img src="https://cdn-icons-png.flaticon.com/512/9850/9850774.png" width="14"/> Ampliando conhecimento de <b>Backend</b> </li>
       </ul>
     </li>
   </ul>
-</div>
-
-<h1 align="center">GitHub Status:</h1>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=devriquesant&show_icons=true&theme=radical&border_radius=15">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devriquesant&theme=radical&border_radius=15" align="right">
 </div>
