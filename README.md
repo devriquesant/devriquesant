@@ -1,46 +1,18 @@
-# Hello you!
+<h1 align="center">Olá, Seja bem vindo!</h1>
 
-Oi eu sou Carlos <i>(tembém Henrique)</i> e eu realmente gosto de programar e resolver problemas.
+<p align="center">
+  Eu sou Carlos <i>(tembém Henrique)</i>. Amo programar porque gosto de desafios, enigmas e solucionar problemas 🕵️
+</p>
 
-Hoje em dia eu:
-<div>
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="right" width="35%">
-  <ul>
-    <li>
-      Desenvolvo programas com tecnologias <b>Frontend</b>:
-      <ul>
-        <li>Html</li>
-        <li>Css</li>
-        <li>Javascript</li>
-          <ul>
-            <li>Electron</li>
-            <li>React</li>
-          </ul>
-      </ul>
-    </li>
-    <li>
-      Desenvolvo também para <b>Backend</b>:
-      <ul>
-        <li>Javascript</li>
-          <ul>
-            <li>Node.js</li>
-            <li>Express</li>
-            <li>Socket.io</li>
-          </ul>
-      </ul>
-    </li>
-    <li>
-      Conhecimento Intermediário na área de <b>Data Science</b>:
-      <ul>
-        <li>Python</li>
-      </ul>
-    </li>
-    <li style="display:flex;justify-content:center;align-items:center">
-      Foco de estudo:
-      <ul type="none">
-        <li> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="14"/> TypeScript </li>
-        <li> <img src="https://cdn-icons-png.flaticon.com/512/9850/9850774.png" width="14"/> Ampliando conhecimento de <b>Backend</b> </li>
-      </ul>
-    </li>
-  </ul>
-</div>
+<img align="right" width="50%" src="https://camo.githubusercontent.com/e37ba631e0cde2bcb7c0c4cb4ddcbf9ebc464428f85a85a913fe2287f33ef192/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966"/>
+
+# Sobre Mim
+
+- **Iniciei** meus estudos sobre programação em **2017**.
+- Atualmente estudo **Backend** em desenvolvimento web, além de **Frameworks** como **React** e **Sass**.
+- Alcancei o 8ª Lugar, em equipe, no hackathon [Games4Good](https://games4good.paniclobster.com/equipe/42).
+- Gosto de video games, música e animes.
+
+# Habilidades
+
+<img src="https://enagr1y68ri9sxj.m.pipedream.net"/>
