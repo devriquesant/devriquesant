@@ -71,11 +71,11 @@
   <ul type="none">
       <li>
         <p>💪 <b>Plataformas de desenvolvimento:</b></p>
-        <a href="">
+        <a href="https://www.codingame.com/profile/da729f6bb25524302d9c2d07445672a79143433">
           <img src="https://img.shields.io/badge/CodinGame-f7d51f?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAARlJREFUOE9j/HOJ/T8DBYCRVAP+/WNgYGSEYBAgyYAZ6/kZupcIgTXeWXMfYhApLiDPAKb/DAz/GRkY/jMwnL/FznDyKgfYBRmBH/F74dNXRgbDOAV48Ooo/WDY2P0cI7ixeuHTVyYG7yJphmdvWFA03F17nzgDXr1jZrBMlUNR/P8/A8O9dUQasO4AN0PpZDEUA+ZUvWBwNP5O2AU/fjEyaEdC/C7I+5fBWu8Hw8SiVziTGkYYTF4twDBhhSBDc/obBi/LrwwCvP/wplO4ARduszNE1EgwGKn/Ylja+Bye0gilcsblE4T+V0xF+PfO2vsM0FRKSC8kHcirasAzU33yW4Y4r09EaYQpQjHg2ooHDOyspGVOig0AABpPeFF4Qd3yAAAAAElFTkSuQmCC"/>
         </a>
         &nbsp&nbsp&nbsp&nbsp
-        <a href="https://www.codingame.com/profile/da729f6bb25524302d9c2d07445672a79143433">
+        <a href="https://leetcode.com/devriquesant/">
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
         </a>
         &nbsp&nbsp&nbsp&nbsp
