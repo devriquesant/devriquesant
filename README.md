@@ -15,7 +15,7 @@
 
 # Habilidades
 
-<ul align="center">
+<ul type="none">
   <li>
     <p>🌎 <b>Linguagens de programação:</b></p>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
