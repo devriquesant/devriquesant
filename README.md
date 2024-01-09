@@ -4,7 +4,7 @@
   Eu sou Carlos <i>(tembém Henrique)</i>. Amo programar porque gosto de desafios, enigmas e solucionar problemas 🕵️
 </p>
 
-<img align="right" width="50%" src="https://camo.githubusercontent.com/e37ba631e0cde2bcb7c0c4cb4ddcbf9ebc464428f85a85a913fe2287f33ef192/68747470733a2f2f6d656469612e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966"/>
+<img align="right" width="50%" src="https://i0.wp.com/analyticsindiamag.com/wp-content/uploads/2022/11/programming.gif"/>
 
 # Sobre Mim
 
